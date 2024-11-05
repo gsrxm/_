@@ -4,5 +4,11 @@
 		"title": "Discord Server",
 		"message": "Please join our backup discord server:",
 		"link": "https://discord.gg/kKtg6WRjMW"
+	},
+	{
+		"id": 1337,
+		"title": "Launcher Update",
+		"message": "Please make sure you are using the latest version of MxLauncher, if so ignore this message.",
+		"link": "https://discord.gg/2E6UqVCYAG"
 	}
 ]
